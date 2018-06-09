@@ -1,6 +1,24 @@
 SuperFreeze
 ===========
 
+We are moving to GitLab!
+------------------------
+
+All development is made at https://gitlab.com/SuperFreezeApp/SuperFreeze/. However, the GitHub repository will serve as a mirror and you can also open issues here, if you want to.
+
+Recently, Microsoft announced to buy GitHub. We value Microsoft's efforts to become more involved with the Open Source world but there are just too many disadvantages GitHub has now:
+
+* It is one, central instance
+* It is owned by a company that already is even more powerful
+* GitHub is not Open Source itself
+* To host an own instance of GitHub you have to pay
+* Microsoft has some other bad habits like paying too few taxes in some countries.
+
+By the way, in our opinion Google is too powerful as well and we encourage everyone to use a custom ROM like [LineageOS](https://lineageos.org/) instead of the "normal" Android.
+
+Description
+-----------
+
 An android app that makes it possible to entirely freeze all background activities of an app.
 Currently, the user has to force stop apps by hand, SuperFreeze only shows the app settings page.
 
