@@ -5,7 +5,7 @@ We are moving to GitLab!
 ------------------------
 
 All development is made at https://gitlab.com/SuperFreezeApp/SuperFreeze/. 
-However, the GitHub repository will serve as a mirror. You may open issues and pull requests here, if you want to, but if possible, please use the GitLab page as this makes things far simpler for us.
+However, the GitHub repository will serve as a mirror. You may open issues and pull requests here, if you want to, but if possible, please use the GitLab page as this makes things far simpler for us. Also the GitHub repository might be outdated.
 
 Recently, Microsoft announced to buy GitHub. We value Microsoft's efforts to become more involved with the Open Source world but there are just too many disadvantages GitHub has now:
 
